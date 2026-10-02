@@ -1,0 +1,19 @@
+{
+  "id": 744,
+  "title": "School Bus Safety Node Maintenance Reminders",
+  "repository_slug": "school-bus-safety-node-maintenance-reminders",
+  "category": "Smart Vehicles",
+  "platform": "Arduino Nano 33 BLE",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 32,
+  "connectivity": "BLE",
+  "components": [
+    "camera"
+  ],
+  "scope": "Build a smart vehicles prototype that uses camera to track usage-based maintenance intervals. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Maintenance Reminders demonstration with repeatable test steps",
+  "mode": "safety_latch",
+  "entrypoint": "firmware/school-bus-safety-node-maintenance-reminders/school-bus-safety-node-maintenance-reminders.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
